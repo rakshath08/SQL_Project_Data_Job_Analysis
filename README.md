@@ -156,9 +156,9 @@ This project not only boosted my SQL capabilities but gave me **real-world insig
 ├── assets
 │   └── 1_top_paying_roles.png
 ├── project_sql
-│   ├── top_paying_jobs.sql
-│   ├── skills_top_jobs.sql
-│   ├── demand_skills.sql
-│   ├── salary_skills.sql
-│   └── optimal_skills.sql
+│   ├── top_paying_jobs.csv
+│   ├── skills_top_jobs.csv
+│   ├── demand_skills.csv
+│   ├── salary_skills.csv
+│   └── optimal_skills.csv
 ```
