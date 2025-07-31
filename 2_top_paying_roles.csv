@@ -1,0 +1,52 @@
+job_id	job_title_short	salary_year_avg	job_posted_date	company_name	skills
+670899	Data Analyst	99746.90625	2023-10-12 04:00:55	Calbright College	sas
+670899	Data Analyst	99746.90625	2023-10-12 04:00:55	Calbright College	sas
+670899	Data Analyst	99746.90625	2023-10-12 04:00:55	Calbright College	r
+670899	Data Analyst	99746.90625	2023-10-12 04:00:55	Calbright College	python
+670899	Data Analyst	99746.90625	2023-10-12 04:00:55	Calbright College	sql
+670899	Data Analyst	99746.90625	2023-10-12 04:00:55	Calbright College	oracle
+670899	Data Analyst	99746.90625	2023-10-12 04:00:55	Calbright College	windows
+670899	Data Analyst	99746.90625	2023-10-12 04:00:55	Calbright College	sheets
+670899	Data Analyst	99746.90625	2023-10-12 04:00:55	Calbright College	word
+670899	Data Analyst	99746.90625	2023-10-12 04:00:55	Calbright College	excel
+670899	Data Analyst	99746.90625	2023-10-12 04:00:55	Calbright College	spreadsheet
+670899	Data Analyst	99746.90625	2023-10-12 04:00:55	Calbright College	spss
+1064019	Data Analyst	99500	2023-07-24 17:02:21	Ogletree Deakins	sql
+1064019	Data Analyst	99500	2023-07-24 17:02:21	Ogletree Deakins	python
+1064019	Data Analyst	99500	2023-07-24 17:02:21	Ogletree Deakins	r
+1064019	Data Analyst	99500	2023-07-24 17:02:21	Ogletree Deakins	tableau
+1064019	Data Analyst	99500	2023-07-24 17:02:21	Ogletree Deakins	excel
+1733276	Data Analyst	99500	2023-07-06 09:00:14	Get It Recruit - Information Technology	python
+1733276	Data Analyst	99500	2023-07-06 09:00:14	Get It Recruit - Information Technology	r
+1733276	Data Analyst	99500	2023-07-06 09:00:14	Get It Recruit - Information Technology	sql
+1733276	Data Analyst	99500	2023-07-06 09:00:14	Get It Recruit - Information Technology	java
+1733276	Data Analyst	99500	2023-07-06 09:00:14	Get It Recruit - Information Technology	c++
+1733276	Data Analyst	99500	2023-07-06 09:00:14	Get It Recruit - Information Technology	c#
+1733276	Data Analyst	99500	2023-07-06 09:00:14	Get It Recruit - Information Technology	bash
+1733276	Data Analyst	99500	2023-07-06 09:00:14	Get It Recruit - Information Technology	powershell
+1733276	Data Analyst	99500	2023-07-06 09:00:14	Get It Recruit - Information Technology	aws
+1733276	Data Analyst	99500	2023-07-06 09:00:14	Get It Recruit - Information Technology	tableau
+867791	Data Analyst	99000	2023-03-04 10:01:39	Get It Recruit - Technology	sql
+867791	Data Analyst	99000	2023-03-04 10:01:39	Get It Recruit - Technology	excel
+1332763	Data Analyst	98800	2023-05-04 01:00:43	Ad Hoc Team	r
+1332763	Data Analyst	98800	2023-05-04 01:00:43	Ad Hoc Team	python
+1332763	Data Analyst	98800	2023-05-04 01:00:43	Ad Hoc Team	sql
+1332763	Data Analyst	98800	2023-05-04 01:00:43	Ad Hoc Team	tableau
+1332763	Data Analyst	98800	2023-05-04 01:00:43	Ad Hoc Team	looker
+284410	Data Analyst	98750	2023-09-16 09:02:30	Goldbelt, Inc.	sas
+284410	Data Analyst	98750	2023-09-16 09:02:30	Goldbelt, Inc.	sas
+284410	Data Analyst	98750	2023-09-16 09:02:30	Goldbelt, Inc.	flow
+1149238	Data Analyst	98500	2023-02-27 08:01:19	Get It Recruit - Technology	sql
+1149238	Data Analyst	98500	2023-02-27 08:01:19	Get It Recruit - Technology	python
+1149238	Data Analyst	98500	2023-02-27 08:01:19	Get It Recruit - Technology	r
+1149238	Data Analyst	98500	2023-02-27 08:01:19	Get It Recruit - Technology	excel
+1714018	Data Analyst	97500	2023-01-09 20:01:32	Cognizant Technology Solutions	excel
+1714018	Data Analyst	97500	2023-01-09 20:01:32	Cognizant Technology Solutions	flow
+498516	Data Analyst	97500	2023-05-30 07:01:57	Motion Recruitment	python
+498516	Data Analyst	97500	2023-05-30 07:01:57	Motion Recruitment	sql
+498516	Data Analyst	97500	2023-05-30 07:01:57	Motion Recruitment	databricks
+498516	Data Analyst	97500	2023-05-30 07:01:57	Motion Recruitment	azure
+498516	Data Analyst	97500	2023-05-30 07:01:57	Motion Recruitment	snowflake
+498516	Data Analyst	97500	2023-05-30 07:01:57	Motion Recruitment	spark
+498516	Data Analyst	97500	2023-05-30 07:01:57	Motion Recruitment	tableau
+498516	Data Analyst	97500	2023-05-30 07:01:57	Motion Recruitment	power bi
