@@ -31,8 +31,6 @@ This project was inspired by a desire to better understand the **data analyst jo
 | **VS Code**   | IDE for writing and executing SQL queries         |
 | **Git & GitHub** | Version control and project collaboration    |
 
-All SQL queries are available in the [`project_sql`](./project_sql) folder.
-
 ---
 
 ## 🔎 The Analysis
